@@ -1,0 +1,5 @@
+To know basics of Double Linked Lists, 
+
+please follow the below link:
+
+https://www.javatpoint.com/doubly-linked-list

@@ -1,0 +1,13 @@
+This Repository is Created by me ( i.e. Jay Pithadia).
+
+Here, i have tried to make different Python programs, 
+
+and also i have tried to write comments in most of the lines,
+
+to make the code easy to understand.
+
+If you guys liked it, Please write comments, share it with your friends
+
+and try to modify the code according to your preference,
+
+to make the presentation more attractive to beginner in Python.

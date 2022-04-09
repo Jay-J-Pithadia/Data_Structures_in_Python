@@ -1,0 +1,3 @@
+To know basics of BackTracking, when to use BackTracking strategy, and more,
+
+follow the link : https://www.javatpoint.com/backtracking-introduction

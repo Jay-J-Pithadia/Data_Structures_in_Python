@@ -1,0 +1,5 @@
+To learn basics of Hashing follow the link : 
+https://www.javatpoint.com/hash-table
+
+To know more about implementation of hash tables check this video : 
+https://youtu.be/ea8BRGxGmlA

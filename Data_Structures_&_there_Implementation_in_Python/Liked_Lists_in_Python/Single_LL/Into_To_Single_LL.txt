@@ -1,0 +1,5 @@
+To know basics of Single Linked Lists, 
+
+please follow the below link:
+
+https://www.javatpoint.com/singly-linked-list

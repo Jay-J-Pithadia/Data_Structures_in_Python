@@ -1,0 +1,3 @@
+To know basics about DP, when to use DP, and much more, follow link:
+
+https://www.javatpoint.com/dynamic-programming

@@ -1,0 +1,5 @@
+To know basics of Binary tree and BST
+
+follow the link below:
+
+https://www.javatpoint.com/binary-tree-vs-binary-search-tree

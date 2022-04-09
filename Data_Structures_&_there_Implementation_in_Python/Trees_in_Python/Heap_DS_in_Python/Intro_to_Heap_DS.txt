@@ -1,0 +1,5 @@
+To know the basics about Heap DS
+
+Follow the link below:
+
+https://www.javatpoint.com/heap-data-structure
